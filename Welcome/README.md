@@ -1,6 +1,3 @@
-# Qlik Sense
-
-
-# Author: Nagendra Reddy
+#Welcome
 
 1. Welcome to Qliksense program

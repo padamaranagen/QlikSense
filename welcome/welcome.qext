@@ -1,10 +1,10 @@
 {
-	"name": "SR_DropDown",
+	"name": "welcome",
 	"description": "Basic empty visualization template",
 	"type": "visualization",
 	"version": "1.0.0",
 	"icon": "extension",
-	"author": "Nagendra Reddy<nagendramca2011@gmail.com>",
+	"author": "Nagendra Padamara<nagendramca2011@gmail.com>",
 	"homepage": "",
 	"keywords": "qlik-sense, visualization",
 	"license": "",
