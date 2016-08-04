@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-extension",
+  "description": "The following instructions assume that you are familiar with the basics of Node.js, Bower and Grunt (or Gulp). All the steps demonstrated below can also be achieved manually or with other tools, but this just seems to be the easiest way for me.",
+  "main": "Gruntfile.js",
+  "authors": [
+    "Nagendra Reddy"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "bootstrap",
+    "css"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
